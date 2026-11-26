@@ -140,6 +140,11 @@ print(f"Maximum Gain      : {gain_db[-1]:.2f} dB")
 print(f"Noise Figure      : {noise_figure[-1]:.2f} dB")
 print(f"ASE Noise Power   : {ase_power[-1]:.2e} W")
 ```
+
+## Tabulation
+<img width="1280" height="392" alt="image" src="https://github.com/user-attachments/assets/6bdea096-ef71-4247-bd0c-f839123a203b" />
+
+
 ## Output
 <img width="609" height="393" alt="image" src="https://github.com/user-attachments/assets/e09de393-a25d-4bf0-8f5c-1e690f0ac66d" />
 
